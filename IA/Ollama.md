@@ -28,14 +28,14 @@ On peut faire un prompt sur plusieurs lignes :
 - Insérer 3 guillemets `"""` au début et à la fin
 - Appuyer sur shift + Entrée pour aller à la ligne
 
-![[ollama-lignes.png]]
+<img src="https://github.com/YannHY/obsidian/blob/main/IA/Images/ollama-lignes.png" width="400" />
 
 Taper `/bye` pour terminer la conversation.
 # Mise à jour des modèles
 
 Pour télécharger un modèle, dans le Terminal, taper le modèle désiré. Par exemple : `ollama run llama3:8b` (on peut aussi utiliser `pull` à la place de `run`).
 
-![[téléchargement-llm.png]]
+<img src="https://github.com/YannHY/obsidian/blob/main/IA/Images/téléchargement-llm.png" width="400" />
 
 Cliquez sur les tags pour avoir les dernières versions. Par exemple `ollama run mistral:latest`
 
@@ -84,7 +84,9 @@ ollama run hf.co/OpenLLM-France/Lucie-7B-Instruct-gguf
 # Autre
 
 Malheureusement, Mistral ne se montre pas très fort dans les devinettes françaises.
-![[réponse-mistral.png]]
+
+<img src="https://github.com/YannHY/obsidian/blob/main/IA/Images/réponse-mistral.png" width="400" />
+
 # Ollama Vision
 
 [Llama 3.2 Vision · Ollama Blog](https://ollama.com/blog/llama3.2-vision)
@@ -158,5 +160,5 @@ Lire aussi
 7. Taper `Ollama serve`
 8. Relancer Ollama
 9. Dans Obsidian, aller dans *Model*. Cliquer sur *Add custom model*. Installer le modèle (deepseek-r1:14b) et l'embedding model (bge-m3) en cliquant également sur *Add custom model*. Ne pas oublier de cliquer sur *Add Model*.
- 
-![Add Model](https://github.com/YannHY/obsidian/blob/main/IA/Images/Add%20Model.png)
+
+ <img src="https://github.com/YannHY/obsidian/blob/main/IA/Images/Add%20Model.png" width="400" />
