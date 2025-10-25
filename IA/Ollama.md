@@ -159,4 +159,4 @@ Lire aussi
 8. Relancer Ollama
 9. Dans Obsidian, aller dans *Model*. Cliquer sur *Add custom model*. Installer le modèle (deepseek-r1:14b) et l'embedding model (bge-m3) en cliquant également sur *Add custom model*. Ne pas oublier de cliquer sur *Add Model*.
  
-![[Add Model.png|400]]
+![Add Model](https://github.com/YannHY/obsidian/blob/main/IA/Images/Add%20Model.png)
