@@ -7,7 +7,7 @@ author: yann houry
 date: 30-12-2022
 ---
 
-<img src=“https://github.com/YannHY/obsidian/blob/main/IA/Images/ai.jpg“ width=400 />
+<img src="https://github.com/YannHY/obsidian/blob/main/IA/Images/ai.jpg" width=400 />
 
 > [!example]+ Plan
 > - [[#Definition|Definition]]
